@@ -1,7 +1,6 @@
 <html>
    <head>
      <meta charset="UTF-8">
-     <title> Tiffany Chenn Portfolio </title>
    </head>
   
   <body>
